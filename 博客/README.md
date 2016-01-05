@@ -1,8 +1,11 @@
-# Android
+title: 博客
+---
 
-## 国内   
+## Android
 
-### CSDN   
+### 国内   
+
+#### CSDN   
 
 [老罗的Android之旅](http://blog.csdn.net/Luoshengyang/)   
 [郭霖的专栏](http://blog.csdn.net/guolin_blog)   
@@ -15,16 +18,21 @@
 [AigeStudio](http://blog.csdn.net/aigestudio)   
 [Android手机病毒分析及研究](http://blog.csdn.net/androidsecurity)   
 [Mr.Simple的专栏](http://blog.csdn.net/bboyfeiyu)    
-[Innost的专栏 - 阿拉神农  ](http://blog.csdn.net/innost)    
-[hellogv的专栏](http://blog.csdn.net/hellogv)
+[Innost的专栏 - 阿拉神农](http://blog.csdn.net/innost)    
+[hellogv的专栏](http://blog.csdn.net/hellogv)   
+[Tomcat的猫](http://blog.csdn.net/eclipsexys)   
+[大头鬼Bruce](http://blog.csdn.net/lzyzsd/)   
 
-###  其它博客平台   
+
+####  其它博客平台   
 
 [农民伯伯](http://www.cnblogs.com/over140/)   
 [张涛OSC](http://my.oschina.net/kymjs/blog)     
-[wyouflf](http://my.oschina.net/u/1171837)
+[wyouflf](http://my.oschina.net/u/1171837)  
 
-### 个人博客   
+
+#### 个人博客    
+
 [Trinea](http://www.trinea.cn/)   
 [代码家](http://blog.daimajia.com/)   
 [stormzhang](http://stormzhang.com/)   
@@ -43,12 +51,14 @@
 [Chiemy](http://chiemy.com/)   
 [StackVoid](http://stackvoid.com/)   
 [Adventures of kenai](http://blog.kenai.cc/)   
-[张涛博客](http://blog.kymjs.com/)   
+[张涛博客](http://kymjs.com/)   
 [lzy's blog](http://lzyblog.com/)   
 [雨松MOMO](http://www.xuanyusong.com/)   
-[Drakeet的个人博客](http://drakeet.me/)   
+[Drakeet的个人博客](http://drakeet.me/)     
+[廖祜秋liaohuqiu_秋百万](http://liaohuqiu.net/cn/)   
 
-## 国外   
+
+### 国外   
 
 [JAKE WHARTON](http://jakewharton.com/blog)   
 [Romain Guy](http://www.curious-creature.com/category/android/)   
@@ -91,17 +101,26 @@
 [Chris Jenkins](http://chrisjenx.com/)   
 [Lucas Rocha](http://lucasr.org/)   
 [UDI COHEN](http://blog.udinic.com/)     
+[Yigit Boyar](http://www.birbit.com/)   
 
 
-# Java   
+----------------------------------------
+
+## Java   
 
 [deepinmind的技术博客](http://it.deepinmind.com/)   
-[花样的年华](http://calvin1978.blogcn.com/)   
+[花样的年华](http://calvin1978.blogcn.com/)     
 
-# 算法   
-[结构之法 算法之道](http://blog.csdn.net/v_july_v)   
 
-# 其它   
+----------------------------------------
+
+## 算法   
+[结构之法 算法之道](http://blog.csdn.net/v_july_v)     
+
+
+----------------------------------------
+
+## 其它   
 
 [牛人技术博客汇总](http://geniusblog.sinaapp.com/)   
 [Tencent AlloyTeam](http://alloyteam.github.io/)   
